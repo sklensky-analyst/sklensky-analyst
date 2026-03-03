@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Jacob! 👋
 
-<!--
-**sklensky-analyst/sklensky-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 About Me
+I am an aspiring Data Analyst currently exploring the intersection of **AI-assisted coding (Vibe Coding)** and **Geopolitical OSINT**. My goal is to bridge the gap between chaotic real-time information and clear, actionable visualizations.
 
-Here are some ideas to get you started:
+### 🚀 Current Project: 2026 Iran Conflict Tracker
+I am building an automated system that:
+- **Scrapes** real-time data from verified OSINT sources and Wikipedia.
+- **Processes** material losses (Navy, Air Force, Air Defense) using Python.
+- **Visualizes** confirmed losses on an interactive map for strategic overview.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack I'm Learning:
+- **Languages:** Python (Pandas, BeautifulSoup), SQL (Basics)
+- **Visualization:** Streamlit, Folium, Plotly
+- **Tools:** GitHub, Cursor (AI Coding), Excel
+
+---
+*I believe that in the age of AI, the most important skill is knowing how to ask the right questions to the data.*
+
+📫 **Reach me at:** jakubsklensky@gmail.com
